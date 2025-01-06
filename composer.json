@@ -1,0 +1,8 @@
+{
+    "name": "Tufts-technology-services/tufts-libraries-misc",
+    "type": "drupal-library",
+    "description": "The purpose of this module is to share libraries, etc across the library websites.",
+    "keywords": ["javascript", "jquery", "libraries"],
+    "license": "GPL-2.0",
+    "homepage": "https://github.com/Tufts-Technology-Services/tufts-libraries-misc"
+  }
