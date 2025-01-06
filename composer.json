@@ -1,5 +1,5 @@
 {
-    "name": "Tufts-technology-services/tufts-libraries-misc",
+    "name": "tufts-technology-services/tufts-libraries-misc",
     "type": "drupal-library",
     "description": "The purpose of this module is to share libraries, etc across the library websites.",
     "keywords": ["javascript", "jquery", "libraries"],
